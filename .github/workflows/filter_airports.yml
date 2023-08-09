@@ -1,0 +1,34 @@
+name: Filter Airports (bi-weekly)
+
+on:
+  schedule:
+    - cron: "0 12 1,15 * *"
+  workflow_dispatch:
+
+jobs:
+  run_script:
+    name: Run filter-airports.sh
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Run script
+        run: |
+          chmod +x filter-airports.sh
+          ./filter-airports.sh
+
+      - name: Commit files
+        run: |
+          datestamp=$(date "+%Y-%m-%d")
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add .
+          git commit -m "🗃️ updated iata-airports.json ($datestamp)" -a
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
