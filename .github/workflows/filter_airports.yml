@@ -3,7 +3,6 @@ name: Filter Airports (bi-weekly)
 on:
   schedule:
     - cron: "0 12 1,15 * *"
-  workflow_dispatch:
 
 jobs:
   run_script:
