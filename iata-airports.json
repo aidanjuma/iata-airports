@@ -81096,6 +81096,18 @@
     "tz": "Asia/Kolkata"
   },
   {
+    "icao": "VOKN",
+    "iata": "CNN",
+    "name": "Kannur International Airport",
+    "city": "Mattanur",
+    "state": "Kerala",
+    "country": "IN",
+    "elevation": 249,
+    "lat": 11.92,
+    "lon": 75.55,
+    "tz": "Asia/Kolkata"
+  },
+  {
     "icao": "VOMD",
     "iata": "IXM",
     "name": "Madurai Airport",
