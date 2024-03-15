@@ -96,7 +96,7 @@
     "tz": "America/Los_Angeles"
   },
   {
-    "icao": "ADDE",
+    "icao": "KALX",
     "iata": "ALX",
     "name": "Thomas C Russell Field",
     "city": "Alexander City",
@@ -24194,7 +24194,7 @@
   {
     "icao": "KACV",
     "iata": "ACV",
-    "name": "Arcata Airport",
+    "name": "California Redwood Coast-Humboldt County Airport",
     "city": "Arcata/Eureka",
     "state": "California",
     "country": "US",
@@ -24626,7 +24626,7 @@
   {
     "icao": "KAMN",
     "iata": "AMN",
-    "name": "RPD Airport",
+    "name": "Gratiot Community Airport",
     "city": "Alma",
     "state": "Michigan",
     "country": "US",
@@ -25346,7 +25346,7 @@
   {
     "icao": "KBAF",
     "iata": "BAF",
-    "name": "Barnes Municipal Airport",
+    "name": "Westfield-Barnes Regional Airport",
     "city": "Westfield/Springfield",
     "state": "Massachusetts",
     "country": "US",
@@ -26222,7 +26222,7 @@
   {
     "icao": "KBPT",
     "iata": "BPT",
-    "name": "Southeast Texas Regional Airport",
+    "name": "Jack Brooks Regional Airport",
     "city": "Beaumont/Port Arthur",
     "state": "Texas",
     "country": "US",
@@ -26306,7 +26306,7 @@
   {
     "icao": "KBTL",
     "iata": "BTL",
-    "name": "W K Kellogg Airport",
+    "name": "Battle Creek Executive Airport at Kellogg Field",
     "city": "Battle Creek",
     "state": "Michigan",
     "country": "US",
@@ -26342,7 +26342,7 @@
   {
     "icao": "KBTP",
     "iata": "BTP",
-    "name": "Butler County-K W Scholter Field",
+    "name": "Pittsburgh/Butler Regional Airport",
     "city": "Butler",
     "state": "Pennsylvania",
     "country": "US",
@@ -26366,7 +26366,7 @@
   {
     "icao": "KBTV",
     "iata": "BTV",
-    "name": "Burlington International Airport",
+    "name": "Patrick Leahy Burlington International Airport",
     "city": "Burlington",
     "state": "Vermont",
     "country": "US",
@@ -26498,7 +26498,7 @@
   {
     "icao": "KBVY",
     "iata": "BVY",
-    "name": "Beverly Municipal Airport",
+    "name": "Beverly Regional Airport",
     "city": "Beverly",
     "state": "Massachusetts",
     "country": "US",
@@ -26666,7 +26666,7 @@
   {
     "icao": "KBZN",
     "iata": "BZN",
-    "name": "Gallatin Field",
+    "name": "Bozeman Yellowstone International Airport",
     "city": "Bozeman",
     "state": "Montana",
     "country": "US",
@@ -27422,7 +27422,7 @@
   {
     "icao": "KCMH",
     "iata": "CMH",
-    "name": "Port Columbus International Airport",
+    "name": "John Glenn Columbus International Airport",
     "city": "Columbus",
     "state": "Ohio",
     "country": "US",
@@ -27722,7 +27722,7 @@
   {
     "icao": "KCRG",
     "iata": "CRG",
-    "name": "Craig Municipal Airport",
+    "name": "Jacksonville Executive at Craig Airport",
     "city": "Jacksonville",
     "state": "Florida",
     "country": "US",
@@ -28036,7 +28036,7 @@
     "iata": "CWI",
     "name": "Clinton Municipal Airport",
     "city": "Clinton",
-    "state": "Arkansas",
+    "state": "Iowa",
     "country": "US",
     "elevation": 708,
     "lat": 41.8311004639,
@@ -28058,7 +28058,7 @@
   {
     "icao": "KCXO",
     "iata": "CXO",
-    "name": "Lone Star Executive Airport",
+    "name": "Conroe/North Houston Regional Airport",
     "city": "Houston",
     "state": "Texas",
     "country": "US",
@@ -29066,9 +29066,9 @@
   {
     "icao": "KEFD",
     "iata": "EFD",
-    "name": "Ellington Field",
+    "name": "Ellington Airport",
     "city": "Houston",
-    "state": "Connecticut",
+    "state": "Texas",
     "country": "US",
     "elevation": 32,
     "lat": 29.6072998047,
@@ -29078,7 +29078,7 @@
   {
     "icao": "KEFK",
     "iata": "EFK",
-    "name": "Newport State Airport",
+    "name": "Northeast Kingdom International Airport",
     "city": "Newport",
     "state": "Vermont",
     "country": "US",
@@ -29330,7 +29330,7 @@
   {
     "icao": "KEMT",
     "iata": "EMT",
-    "name": "El Monte Airport",
+    "name": "San Gabriel Valley Airport",
     "city": "El Monte",
     "state": "California",
     "country": "US",
@@ -30158,7 +30158,7 @@
   {
     "icao": "KFNL",
     "iata": "FNL",
-    "name": "Fort Collins Loveland Municipal Airport",
+    "name": "Northern Colorado Regional Airport",
     "city": "Fort Collins/Loveland",
     "state": "Colorado",
     "country": "US",
@@ -30194,7 +30194,7 @@
   {
     "icao": "KFOE",
     "iata": "FOE",
-    "name": "Forbes Field",
+    "name": "Topeka Regional Airport",
     "city": "Topeka",
     "state": "Kansas",
     "country": "US",
@@ -30230,7 +30230,7 @@
   {
     "icao": "KFPR",
     "iata": "FPR",
-    "name": "St Lucie County International Airport",
+    "name": "Treasure Coast International Airport",
     "city": "Fort Pierce",
     "state": "Florida",
     "country": "US",
@@ -30590,7 +30590,7 @@
   {
     "icao": "KGCC",
     "iata": "GCC",
-    "name": "Gillette Campbell County Airport",
+    "name": "Northeast Wyoming Regional Airport",
     "city": "Gillette",
     "state": "Wyoming",
     "country": "US",
@@ -30698,7 +30698,7 @@
   {
     "icao": "KGED",
     "iata": "GED",
-    "name": "Sussex County Airport",
+    "name": "Delaware Coastal Airport",
     "city": "Georgetown",
     "state": "Delaware",
     "country": "US",
@@ -30890,7 +30890,7 @@
   {
     "icao": "KGLH",
     "iata": "GLH",
-    "name": "Mid Delta Regional Airport",
+    "name": "Greenville Mid-Delta Airport",
     "city": "Greenville",
     "state": "Mississippi",
     "country": "US",
@@ -31119,7 +31119,7 @@
     "icao": "KGRK",
     "iata": "GRK",
     "name": "Robert Gray  Army Air Field Airport",
-    "city": "Fort Hood/Killeen",
+    "city": "Fort Cavazos/Killeen",
     "state": "Texas",
     "country": "US",
     "elevation": 1015,
@@ -31598,7 +31598,7 @@
   {
     "icao": "KHIB",
     "iata": "HIB",
-    "name": "Chisholm Hibbing Airport",
+    "name": "Range Regional Airport",
     "city": "Hibbing",
     "state": "Minnesota",
     "country": "US",
@@ -31694,7 +31694,7 @@
   {
     "icao": "KHLB",
     "iata": "HLB",
-    "name": "Hillenbrand Industries Airport",
+    "name": "Batesville Airport",
     "city": "Batesville",
     "state": "Indiana",
     "country": "US",
@@ -31754,8 +31754,8 @@
   {
     "icao": "KHLR",
     "iata": "HLR",
-    "name": "Hood Army Air Field",
-    "city": "Fort Hood(Killeen)",
+    "name": "Yoakum–DeFrenn Army Heliport",
+    "city": "Fort Cavazos(Killeen)",
     "state": "Texas",
     "country": "US",
     "elevation": 924,
@@ -31980,6 +31980,18 @@
     "tz": "America/New_York"
   },
   {
+    "icao": "KHSG",
+    "iata": "THP",
+    "name": "Hot Springs Co Thermopolis Municipal Airport",
+    "city": "Thermopolis",
+    "state": "Wyoming",
+    "country": "US",
+    "elevation": 4592,
+    "lat": 43.6582984924,
+    "lon": -108.2129974365,
+    "tz": "America/Denver"
+  },
+  {
     "icao": "KHSI",
     "iata": "HSI",
     "name": "Hastings Municipal Airport",
@@ -32052,9 +32064,9 @@
     "tz": "America/Detroit"
   },
   {
-    "icao": "KHTO",
+    "icao": "KJPX",
     "iata": "HTO",
-    "name": "East Hampton Airport",
+    "name": "Town of East Hampton Airport",
     "city": "East Hampton",
     "state": "New-York",
     "country": "US",
@@ -32294,7 +32306,7 @@
   {
     "icao": "KHZY",
     "iata": "JFN",
-    "name": "Ashtabula County Airport",
+    "name": "Northeast Ohio Regional Airport",
     "city": "Ashtabula",
     "state": "Ohio",
     "country": "US",
@@ -32534,7 +32546,7 @@
   {
     "icao": "KILN",
     "iata": "ILN",
-    "name": "Airborne Airpark",
+    "name": "Wilmington Air Park",
     "city": "Wilmington",
     "state": "Ohio",
     "country": "US",
@@ -33230,7 +33242,7 @@
   {
     "icao": "KLAN",
     "iata": "LAN",
-    "name": "Capital City Airport",
+    "name": "Capital Region International Airport",
     "city": "Lansing",
     "state": "Michigan",
     "country": "US",
@@ -33350,7 +33362,7 @@
   {
     "icao": "KLBX",
     "iata": "LJN",
-    "name": "Brazoria County Airport",
+    "name": "Texas Gulf Coast Regional Airport",
     "city": "Angleton/Lake Jackson",
     "state": "Texas",
     "country": "US",
@@ -33398,7 +33410,7 @@
   {
     "icao": "KLCQ",
     "iata": "LCQ",
-    "name": "Lake City Municipal Airport",
+    "name": "Lake City Gateway Airport",
     "city": "Lake City",
     "state": "Florida",
     "country": "US",
@@ -33626,7 +33638,7 @@
   {
     "icao": "KLHZ",
     "iata": "LFN",
-    "name": "Franklin County Airport",
+    "name": "Triangle North Executive Airport",
     "city": "Louisburg",
     "state": "North-Carolina",
     "country": "US",
@@ -33722,7 +33734,7 @@
   {
     "icao": "KLMT",
     "iata": "LMT",
-    "name": "Klamath Falls Airport",
+    "name": "Crater Lake/Klamath Regional Airport",
     "city": "Klamath Falls",
     "state": "Oregon",
     "country": "US",
@@ -33770,7 +33782,7 @@
   {
     "icao": "KLNN",
     "iata": "LNN",
-    "name": "Willoughby Lost Nation Municipal Airport",
+    "name": "Lake County Executive Airport",
     "city": "Willoughby",
     "state": "Ohio",
     "country": "US",
@@ -34082,7 +34094,7 @@
   {
     "icao": "KLVL",
     "iata": "LVL",
-    "name": "Lawrenceville Brunswick Municipal Airport",
+    "name": "Brunswick County Airport",
     "city": "Lawrenceville",
     "state": "Virginia",
     "country": "US",
@@ -34286,7 +34298,7 @@
   {
     "icao": "KMAF",
     "iata": "MAF",
-    "name": "Midland International Airport",
+    "name": "Midland International Air and Space Port Airport",
     "city": "Midland",
     "state": "Texas",
     "country": "US",
@@ -34814,7 +34826,7 @@
   {
     "icao": "KMHT",
     "iata": "MHT",
-    "name": "Manchester Airport",
+    "name": "Manchester Boston Regional Airport",
     "city": "Manchester",
     "state": "New-Hampshire",
     "country": "US",
@@ -34946,7 +34958,7 @@
   {
     "icao": "KMJX",
     "iata": "MJX",
-    "name": "Robert J. Miller Air Park",
+    "name": "Ocean County Airport",
     "city": "Toms River",
     "state": "New-Jersey",
     "country": "US",
@@ -35008,7 +35020,7 @@
     "iata": "MKO",
     "name": "Davis Field",
     "city": "Muskogee",
-    "state": "Florida",
+    "state": "Oklahoma",
     "country": "US",
     "elevation": 611,
     "lat": 35.65650177,
@@ -35234,7 +35246,7 @@
   {
     "icao": "KMNM",
     "iata": "MNM",
-    "name": "Menominee Marinette Twin County Airport",
+    "name": "Menominee Regional Airport",
     "city": "Menominee",
     "state": "Michigan",
     "country": "US",
@@ -35452,7 +35464,7 @@
     "iata": "MQY",
     "name": "Smyrna Airport",
     "city": "Smyrna",
-    "state": "Delaware",
+    "state": "Tennessee",
     "country": "US",
     "elevation": 543,
     "lat": 36.0089988708,
@@ -35798,7 +35810,7 @@
   {
     "icao": "KMWA",
     "iata": "MWA",
-    "name": "Williamson County Regional Airport",
+    "name": "Veterans Airport of Southern Illinois",
     "city": "Marion",
     "state": "Illinois",
     "country": "US",
@@ -36614,7 +36626,7 @@
   {
     "icao": "KOKH",
     "iata": "ODW",
-    "name": "AJ Eisenberg Airport",
+    "name": "Delaurentis Airport",
     "city": "Oak Harbor",
     "state": "Washington",
     "country": "US",
@@ -36890,7 +36902,7 @@
   {
     "icao": "KOPF",
     "iata": "OPF",
-    "name": "Opa-locka Executive Airport",
+    "name": "Miami-Opa Locka Executive Airport",
     "city": "Miami",
     "state": "Florida",
     "country": "US",
@@ -37478,7 +37490,7 @@
   {
     "icao": "KPGD",
     "iata": "PGD",
-    "name": "Charlotte County Airport",
+    "name": "Punta Gorda Airport",
     "city": "Punta Gorda",
     "state": "Florida",
     "country": "US",
@@ -37922,7 +37934,7 @@
   {
     "icao": "KPOF",
     "iata": "POF",
-    "name": "Poplar Bluff Municipal Airport",
+    "name": "Poplar Bluff Regional Business Airport",
     "city": "Poplar Bluff",
     "state": "Missouri",
     "country": "US",
@@ -37946,7 +37958,7 @@
   {
     "icao": "KPOU",
     "iata": "POU",
-    "name": "Dutchess County Airport",
+    "name": "Hudson Valley Regional Airport",
     "city": "Poughkeepsie",
     "state": "New-York",
     "country": "US",
@@ -38006,7 +38018,7 @@
   {
     "icao": "KPQI",
     "iata": "PQI",
-    "name": "Northern Maine Regional Airport at Presque Isle",
+    "name": "Presque Isle International Airport",
     "city": "Presque Isle",
     "state": "Maine",
     "country": "US",
@@ -38258,7 +38270,7 @@
   {
     "icao": "KPTW",
     "iata": "PTW",
-    "name": "Pottstown Limerick Airport",
+    "name": "Heritage Field",
     "city": "Pottstown",
     "state": "Pennsylvania",
     "country": "US",
@@ -38318,7 +38330,7 @@
   {
     "icao": "KPVD",
     "iata": "PVD",
-    "name": "Theodore Francis Green State Airport",
+    "name": "Rhode Island TF Green International Airport",
     "city": "Providence",
     "state": "Rhode-Island",
     "country": "US",
@@ -38750,7 +38762,7 @@
   {
     "icao": "KRIW",
     "iata": "RIW",
-    "name": "Riverton Regional Airport",
+    "name": "Central Wyoming Regional Airport",
     "city": "Riverton",
     "state": "Wyoming",
     "country": "US",
@@ -38798,7 +38810,7 @@
   {
     "icao": "KRKS",
     "iata": "RKS",
-    "name": "Rock Springs Sweetwater County Airport",
+    "name": "Southwest Wyoming Regional Airport",
     "city": "Rock Springs",
     "state": "Wyoming",
     "country": "US",
@@ -38942,7 +38954,7 @@
   {
     "icao": "KROG",
     "iata": "ROG",
-    "name": "Rogers Municipal Carter Field",
+    "name": "Rogers Executive Airport",
     "city": "Rogers",
     "state": "Arkansas",
     "country": "US",
@@ -39110,7 +39122,7 @@
   {
     "icao": "KRUQ",
     "iata": "SRW",
-    "name": "Rowan County Airport",
+    "name": "Mid-Carolina Regional Airport",
     "city": "Salisbury",
     "state": "North-Carolina",
     "country": "US",
@@ -39146,7 +39158,7 @@
   {
     "icao": "KRVS",
     "iata": "RVS",
-    "name": "Richard Lloyd Jones Jr Airport",
+    "name": "Tulsa Riverside Airport",
     "city": "Tulsa",
     "state": "Oklahoma",
     "country": "US",
@@ -39530,7 +39542,7 @@
   {
     "icao": "KSDF",
     "iata": "SDF",
-    "name": "Louisville International Standiford Field",
+    "name": "Louisville Muhammad Ali International Airport",
     "city": "Louisville",
     "state": "Kentucky",
     "country": "US",
@@ -39638,7 +39650,7 @@
   {
     "icao": "KSEP",
     "iata": "SEP",
-    "name": "Clark Field Municipal Airport",
+    "name": "Stephenville Clark Regional Airport",
     "city": "Stephenville",
     "state": "Texas",
     "country": "US",
@@ -39758,7 +39770,7 @@
   {
     "icao": "KSGJ",
     "iata": "UST",
-    "name": "St Augustine Airport",
+    "name": "Northeast Florida Regional Airport",
     "city": "St Augustine",
     "state": "Florida",
     "country": "US",
@@ -40382,7 +40394,7 @@
   {
     "icao": "KSSI",
     "iata": "SSI",
-    "name": "Malcolm Mc Kinnon Airport",
+    "name": "St. Simons Island Airport at McKinnon Field",
     "city": "Brunswick",
     "state": "Georgia",
     "country": "US",
@@ -40850,7 +40862,7 @@
   {
     "icao": "KTDZ",
     "iata": "TDZ",
-    "name": "Metcalf Field",
+    "name": "Toledo Executive Airport",
     "city": "Toledo",
     "state": "Ohio",
     "country": "US",
@@ -40905,18 +40917,6 @@
     "elevation": 2467,
     "lat": 47.5735015869,
     "lon": -115.28099823,
-    "tz": "America/Denver"
-  },
-  {
-    "icao": "KTHP",
-    "iata": "THP",
-    "name": "Hot Springs Co Thermopolis Municipal Airport",
-    "city": "Thermopolis",
-    "state": "Wyoming",
-    "country": "US",
-    "elevation": 4592,
-    "lat": 43.6582984924,
-    "lon": -108.2129974365,
     "tz": "America/Denver"
   },
   {
@@ -41654,7 +41654,7 @@
   {
     "icao": "KUNV",
     "iata": "SCE",
-    "name": "University Park Airport",
+    "name": "State College Regional Airport",
     "city": "State College",
     "state": "Pennsylvania",
     "country": "US",
@@ -41728,7 +41728,7 @@
     "iata": "UVA",
     "name": "Garner Field",
     "city": "Uvalde",
-    "state": "Florida",
+    "state": "Texas",
     "country": "US",
     "elevation": 942,
     "lat": 29.2112998962,
@@ -48637,7 +48637,7 @@
   },
   {
     "icao": "LUKK",
-    "iata": "KIV",
+    "iata": "RMO",
     "name": "Chisinau International Airport",
     "city": "Chisinau",
     "state": "Chișinau-Municipality",
@@ -65364,6 +65364,18 @@
     "tz": "America/Sao_Paulo"
   },
   {
+    "icao": "SBJH",
+    "iata": "JHF",
+    "name": "São Paulo Catarina Executive Airport",
+    "city": "São Roque",
+    "state": "São Paulo",
+    "country": "BR",
+    "elevation": 2549,
+    "lat": -23.426944,
+    "lon": -47.165833,
+    "tz": "America/Sao_Paulo"
+  },
+  {
     "icao": "SBJP",
     "iata": "JPA",
     "name": "Presidente Castro Pinto Airport",
@@ -66019,8 +66031,8 @@
     "state": "Bahia",
     "country": "BR",
     "elevation": 64,
-    "lat": -12.9086112976,
-    "lon": -38.3224983215,
+    "lat": -12.068355039634072,
+    "lon": -45.7114544107571,
     "tz": "America/Bahia"
   },
   {
@@ -66226,6 +66238,18 @@
     "lat": -19.7647228241,
     "lon": -47.9661102295,
     "tz": "America/Sao_Paulo"
+  },
+  {
+    "icao": "SBVC",
+    "iata": "VDC",
+    "name": "Glauber Rocha Airport",
+    "city": "Vitória da Conquista",
+    "state": "Bahia",
+    "country": "BR",
+    "elevation": 2933,
+    "lat": -14.907778,
+    "lon": -40.914722,
+    "tz": "America/Bahia"
   },
   {
     "icao": "SBVG",
