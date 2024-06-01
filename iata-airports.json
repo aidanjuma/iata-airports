@@ -35066,7 +35066,7 @@
   {
     "icao": "KMLB",
     "iata": "MLB",
-    "name": "Melbourne International Airport",
+    "name": "Melbourne Orlando International Airport",
     "city": "Melbourne",
     "state": "Florida",
     "country": "US",
@@ -38440,7 +38440,7 @@
     "iata": "PYM",
     "name": "Plymouth Municipal Airport",
     "city": "Plymouth",
-    "state": "Indiana",
+    "state": "Massachusetts",
     "country": "US",
     "elevation": 148,
     "lat": 41.9090003967,
@@ -40084,7 +40084,7 @@
     "iata": "SMD",
     "name": "Smith Field",
     "city": "Fort Wayne",
-    "state": "Arkansas",
+    "state": "Indiana",
     "country": "US",
     "elevation": 835,
     "lat": 41.14339828,
@@ -75516,7 +75516,7 @@
     "tz": "Asia/Bishkek"
   },
   {
-    "icao": "UAFO",
+    "icao": "UCFO",
     "iata": "OSS",
     "name": "Osh Airport",
     "city": "Osh",
@@ -79855,8 +79855,8 @@
     "state": "West-Bengal",
     "country": "IN",
     "elevation": 79,
-    "lat": 25.033000946,
-    "lon": 88.1330032349,
+    "lat": 25.011,
+    "lon": 88.127,
     "tz": "Asia/Kolkata"
   },
   {
@@ -79992,7 +79992,7 @@
     "tz": "Asia/Kolkata"
   },
   {
-    "icao": "VEVZ",
+    "icao": "VOVZ",
     "iata": "VTZ",
     "name": "Vishakhapatnam Airport",
     "city": "Visakhapatnam",
@@ -88072,12 +88072,12 @@
     "iata": "KFE",
     "name": "Fortescue - Dave Forrest Aerodrome",
     "city": "Cloudbreak Village",
-    "state": "Central-Sulawesi",
+    "state": "Western-Australia",
     "country": "AU",
     "elevation": 1555,
-    "lat": 0,
-    "lon": 119.429161111,
-    "tz": "Asia/Makassar"
+    "lat": -22.291944,
+    "lon": 119.437222,
+    "tz": "Australia/Perth"
   },
   {
     "icao": "YFIL",
@@ -92454,7 +92454,7 @@
     "city": "Chifeng",
     "state": "Inner-Mongolia",
     "country": "CN",
-    "elevation": 0,
+    "elevation": 2018,
     "lat": 42.2350006104,
     "lon": 118.9079971313,
     "tz": "Asia/Shanghai"
@@ -94070,13 +94070,13 @@
   {
     "icao": "ZSQD",
     "iata": "TAO",
-    "name": "Liuting Airport",
+    "name": "Qingdao Jiaodong International Airport",
     "city": "Qingdao",
     "state": "Shandong",
     "country": "CN",
-    "elevation": 33,
-    "lat": 36.2661018372,
-    "lon": 120.374000549,
+    "elevation": 43,
+    "lat": 36.361944,
+    "lon": 120.088333,
     "tz": "Asia/Shanghai"
   },
   {
@@ -94353,6 +94353,18 @@
     "elevation": 1365,
     "lat": 29.7192001343,
     "lon": 106.641998291,
+    "tz": "Asia/Shanghai"
+  },
+  {
+    "icao": "ZUDC",
+    "iata": "DCY",
+    "name": "Daocheng Yading Airport",
+    "city": "Daocheng County",
+    "state": "Sichuan",
+    "country": "CN",
+    "elevation": 14472,
+    "lat": 29.323056,
+    "lon": 100.053333,
     "tz": "Asia/Shanghai"
   },
   {
