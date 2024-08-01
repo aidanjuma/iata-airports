@@ -96,18 +96,6 @@
     "tz": "America/Los_Angeles"
   },
   {
-    "icao": "KALX",
-    "iata": "ALX",
-    "name": "Thomas C Russell Field",
-    "city": "Alexander City",
-    "state": "Alabama",
-    "country": "US",
-    "elevation": 686,
-    "lat": 32.9146995544,
-    "lon": -85.9629974365,
-    "tz": "America/Chicago"
-  },
-  {
     "icao": "AGAF",
     "iata": "AFT",
     "name": "Afutara Aerodrome",
@@ -8784,18 +8772,6 @@
     "tz": "Europe/Berlin"
   },
   {
-    "icao": "EDDB",
-    "iata": "BER",
-    "name": "Berlin Brandenburg Airport",
-    "city": "Berlin",
-    "state": "Brandenburg",
-    "country": "DE",
-    "elevation": 156,
-    "lat": 52.366667,
-    "lon": 13.503333,
-    "tz": "Europe/Berlin"
-  },
-  {
     "icao": "EDBC",
     "iata": "CSO",
     "name": "Cochstedt Airport",
@@ -8877,6 +8853,18 @@
     "elevation": 7,
     "lat": 54.1577796936,
     "lon": 13.7744436264,
+    "tz": "Europe/Berlin"
+  },
+  {
+    "icao": "EDDB",
+    "iata": "BER",
+    "name": "Berlin Brandenburg Airport",
+    "city": "Berlin",
+    "state": "Brandenburg",
+    "country": "DE",
+    "elevation": 156,
+    "lat": 52.366667,
+    "lon": 13.503333,
     "tz": "Europe/Berlin"
   },
   {
@@ -12036,18 +12024,6 @@
     "tz": "Europe/Dublin"
   },
   {
-    "icao": "EK_4",
-    "iata": "0",
-    "name": "Vejro",
-    "city": "",
-    "state": "Zealand",
-    "country": "DK",
-    "elevation": 0,
-    "lat": 55.035,
-    "lon": 11.375,
-    "tz": "Europe/Copenhagen"
-  },
-  {
     "icao": "EKAH",
     "iata": "AAR",
     "name": "Aarhus Airport",
@@ -12261,6 +12237,18 @@
     "elevation": 10,
     "lat": 57.0927589138,
     "lon": 9.8492431641,
+    "tz": "Europe/Copenhagen"
+  },
+  {
+    "icao": "EK_4",
+    "iata": "0",
+    "name": "Vejro",
+    "city": "",
+    "state": "Zealand",
+    "country": "DK",
+    "elevation": 0,
+    "lat": 55.035,
+    "lon": 11.375,
     "tz": "Europe/Copenhagen"
   },
   {
@@ -24636,6 +24624,18 @@
     "tz": "America/Los_Angeles"
   },
   {
+    "icao": "KALX",
+    "iata": "ALX",
+    "name": "Thomas C Russell Field",
+    "city": "Alexander City",
+    "state": "Alabama",
+    "country": "US",
+    "elevation": 686,
+    "lat": 32.9146995544,
+    "lon": -85.9629974365,
+    "tz": "America/Chicago"
+  },
+  {
     "icao": "KAMA",
     "iata": "AMA",
     "name": "Rick Husband Amarillo International Airport",
@@ -29980,7 +29980,7 @@
     "iata": "MSC",
     "name": "Falcon Field",
     "city": "Mesa",
-    "state": "Alabama",
+    "state": "Arizona",
     "country": "US",
     "elevation": 1394,
     "lat": 33.4608001709,
@@ -32076,18 +32076,6 @@
     "tz": "America/Detroit"
   },
   {
-    "icao": "KJPX",
-    "iata": "HTO",
-    "name": "Town of East Hampton Airport",
-    "city": "East Hampton",
-    "state": "New-York",
-    "country": "US",
-    "elevation": 55,
-    "lat": 40.95959854,
-    "lon": -72.25180054,
-    "tz": "America/New_York"
-  },
-  {
     "icao": "KHTS",
     "iata": "HTS",
     "name": "Tri-State/Milton J. Ferguson Field",
@@ -33094,6 +33082,18 @@
     "lat": 41.51779938,
     "lon": -88.17549896,
     "tz": "America/Chicago"
+  },
+  {
+    "icao": "KJPX",
+    "iata": "HTO",
+    "name": "Town of East Hampton Airport",
+    "city": "East Hampton",
+    "state": "New-York",
+    "country": "US",
+    "elevation": 55,
+    "lat": 40.95959854,
+    "lon": -72.25180054,
+    "tz": "America/New_York"
   },
   {
     "icao": "KJQF",
@@ -43176,6 +43176,18 @@
     "tz": "Europe/Madrid"
   },
   {
+    "icao": "LETL",
+    "iata": "TEV",
+    "name": "Teruel Airport",
+    "city": "Teruel",
+    "state": "Arag",
+    "country": "ES",
+    "elevation": 102,
+    "lat": 40.4119444444,
+    "lon": -1.2175,
+    "tz": "Europe/Madrid"
+  },
+  {
     "icao": "LETO",
     "iata": "TOJ",
     "name": "Torrejon Airport",
@@ -46908,18 +46920,6 @@
     "tz": "Asia/Jerusalem"
   },
   {
-    "icao": "LLET",
-    "iata": "ETH",
-    "name": "Eilat Airport",
-    "city": "Eilat",
-    "state": "Southern-District",
-    "country": "IL",
-    "elevation": 42,
-    "lat": 29.5613002777,
-    "lon": 34.9600982666,
-    "tz": "Asia/Jerusalem"
-  },
-  {
     "icao": "LLER",
     "iata": "ETM",
     "name": "Ramon Airport",
@@ -46929,6 +46929,18 @@
     "elevation": 288,
     "lat": 29.723694,
     "lon": 35.011417,
+    "tz": "Asia/Jerusalem"
+  },
+  {
+    "icao": "LLET",
+    "iata": "ETH",
+    "name": "Eilat Airport",
+    "city": "Eilat",
+    "state": "Southern-District",
+    "country": "IL",
+    "elevation": 42,
+    "lat": 29.5613002777,
+    "lon": 34.9600982666,
     "tz": "Asia/Jerusalem"
   },
   {
@@ -48120,18 +48132,6 @@
     "tz": "Europe/Istanbul"
   },
   {
-    "icao": "LTFM",
-    "iata": "IST",
-    "name": "Istanbul Airport",
-    "city": "Arnavutkoy",
-    "state": "Istanbul",
-    "country": "TR",
-    "elevation": 325,
-    "lat": 41.262222,
-    "lon": 28.727778,
-    "tz": "Europe/Istanbul"
-  },
-  {
     "icao": "LTBD",
     "iata": "CII",
     "name": "Cildir Airport",
@@ -48657,6 +48657,18 @@
     "elevation": 73,
     "lat": 40.204498291,
     "lon": 25.8833007812,
+    "tz": "Europe/Istanbul"
+  },
+  {
+    "icao": "LTFM",
+    "iata": "IST",
+    "name": "Istanbul Airport",
+    "city": "Arnavutkoy",
+    "state": "Istanbul",
+    "country": "TR",
+    "elevation": 325,
+    "lat": 41.262222,
+    "lon": 28.727778,
     "tz": "Europe/Istanbul"
   },
   {
@@ -51096,18 +51108,6 @@
     "tz": "America/Panama"
   },
   {
-    "icao": "MPSM",
-    "iata": "RIH",
-    "name": "Scarlett Martinez International Airport",
-    "city": "Rio Hato",
-    "state": "Cocle",
-    "country": "PA",
-    "elevation": 121,
-    "lat": 8.375833,
-    "lon": -80.127778,
-    "tz": "America/Panama"
-  },
-  {
     "icao": "MPSA",
     "iata": "SYP",
     "name": "Ruben Cantu Airport",
@@ -51117,6 +51117,18 @@
     "elevation": 272,
     "lat": 8.0855998993,
     "lon": -80.9452972412,
+    "tz": "America/Panama"
+  },
+  {
+    "icao": "MPSM",
+    "iata": "RIH",
+    "name": "Scarlett Martinez International Airport",
+    "city": "Rio Hato",
+    "state": "Cocle",
+    "country": "PA",
+    "elevation": 121,
+    "lat": 8.375833,
+    "lon": -80.127778,
     "tz": "America/Panama"
   },
   {
@@ -79452,18 +79464,6 @@
     "tz": "Asia/Phnom_Penh"
   },
   {
-    "icao": "VEDH",
-    "iata": "DBR",
-    "name": "Darbhanga Airport",
-    "city": "Darbhanga",
-    "state": "Bihar",
-    "country": "IN",
-    "elevation": 171,
-    "lat": 26.194722,
-    "lon": 85.9175,
-    "tz": "Asia/Kolkata"
-  },
-  {
     "icao": "VEAH",
     "iata": "AZH",
     "name": "Azamgarh Airport",
@@ -79629,6 +79629,18 @@
     "elevation": 847,
     "lat": 23.8339996338,
     "lon": 86.4253005981,
+    "tz": "Asia/Kolkata"
+  },
+  {
+    "icao": "VEDH",
+    "iata": "DBR",
+    "name": "Darbhanga Airport",
+    "city": "Darbhanga",
+    "state": "Bihar",
+    "country": "IN",
+    "elevation": 171,
+    "lat": 26.194722,
+    "lon": 85.9175,
     "tz": "Asia/Kolkata"
   },
   {
@@ -79989,18 +80001,6 @@
     "elevation": 240,
     "lat": 26.7091007233,
     "lon": 92.7846984863,
-    "tz": "Asia/Kolkata"
-  },
-  {
-    "icao": "VOVZ",
-    "iata": "VTZ",
-    "name": "Vishakhapatnam Airport",
-    "city": "Visakhapatnam",
-    "state": "Andhra-Pradesh",
-    "country": "IN",
-    "elevation": 15,
-    "lat": 17.721200943,
-    "lon": 83.2245025635,
     "tz": "Asia/Kolkata"
   },
   {
@@ -81252,18 +81252,6 @@
     "tz": "Asia/Kathmandu"
   },
   {
-    "icao": "VOTK",
-    "iata": "TCR",
-    "name": "Tuticorin Airport",
-    "city": "Thoothukkudi",
-    "state": "Tamil-Nadu",
-    "country": "IN",
-    "elevation": 129,
-    "lat": 8.724167,
-    "lon": 78.025833,
-    "tz": "Asia/Kolkata"
-  },
-  {
     "icao": "VOAT",
     "iata": "AGX",
     "name": "Agatti Airport",
@@ -81576,6 +81564,18 @@
     "tz": "Asia/Kolkata"
   },
   {
+    "icao": "VOTK",
+    "iata": "TCR",
+    "name": "Tuticorin Airport",
+    "city": "Thoothukkudi",
+    "state": "Tamil-Nadu",
+    "country": "IN",
+    "elevation": 129,
+    "lat": 8.724167,
+    "lon": 78.025833,
+    "tz": "Asia/Kolkata"
+  },
+  {
     "icao": "VOTP",
     "iata": "TIR",
     "name": "Tirupati Airport",
@@ -81609,6 +81609,18 @@
     "elevation": 15,
     "lat": 8.4821195602,
     "lon": 76.9200973511,
+    "tz": "Asia/Kolkata"
+  },
+  {
+    "icao": "VOVZ",
+    "iata": "VTZ",
+    "name": "Vishakhapatnam Airport",
+    "city": "Visakhapatnam",
+    "state": "Andhra-Pradesh",
+    "country": "IN",
+    "elevation": 15,
+    "lat": 17.721200943,
+    "lon": 83.2245025635,
     "tz": "Asia/Kolkata"
   },
   {
@@ -88416,6 +88428,18 @@
     "tz": "Australia/Darwin"
   },
   {
+    "icao": "YGRM",
+    "iata": "GYZ",
+    "name": "Gruyere Mine Airport",
+    "city": "Gruyere",
+    "state": "Western-Australia",
+    "country": "AU",
+    "elevation": 1542,
+    "lat": -28.0339912,
+    "lon": 123.8140464,
+    "tz": "Australia/Perth"
+  },
+  {
     "icao": "YGSC",
     "iata": "GSC",
     "name": "Gascoyne Junction Airport",
@@ -88954,6 +88978,18 @@
     "lat": -24.4232997894,
     "lon": 131.8350067139,
     "tz": "Australia/Darwin"
+  },
+  {
+    "icao": "YKDD",
+    "iata": "OOD",
+    "name": "Gudai-Darri Airstrip",
+    "city": "Newman",
+    "state": "Western-Australia",
+    "country": "AU",
+    "elevation": 1473,
+    "lat": -22.503574253549,
+    "lon": 119.07625111164,
+    "tz": "Australia/Perth"
   },
   {
     "icao": "YKER",
@@ -93696,18 +93732,6 @@
     "tz": "Asia/Shanghai"
   },
   {
-    "icao": "ZPLC",
-    "iata": "LNJ",
-    "name": "Lincang Airport",
-    "city": "Lincang",
-    "state": "Yunnan",
-    "country": "CN",
-    "elevation": 6127,
-    "lat": 23.738333,
-    "lon": 100.025,
-    "tz": "Asia/Shanghai"
-  },
-  {
     "icao": "ZPJH",
     "iata": "JHG",
     "name": "Xishuangbanna Gasa Airport",
@@ -93717,6 +93741,18 @@
     "elevation": 1815,
     "lat": 21.9738998413,
     "lon": 100.7600021362,
+    "tz": "Asia/Shanghai"
+  },
+  {
+    "icao": "ZPLC",
+    "iata": "LNJ",
+    "name": "Lincang Airport",
+    "city": "Lincang",
+    "state": "Yunnan",
+    "country": "CN",
+    "elevation": 6127,
+    "lat": 23.738333,
+    "lon": 100.025,
     "tz": "Asia/Shanghai"
   },
   {
