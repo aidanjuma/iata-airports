@@ -1,5 +1,17 @@
 [
   {
+    "icao": "06N7",
+    "iata": "NYS",
+    "name": "New York Skyports Seaplane Base",
+    "city": "New York",
+    "state": "New York",
+    "country": "US",
+    "elevation": 0,
+    "lat": 40.73399083,
+    "lon": -73.97291638,
+    "tz": "America/New_York"
+  },
+  {
     "icao": "19AK",
     "iata": "ICY",
     "name": "Icy Bay Airport",
